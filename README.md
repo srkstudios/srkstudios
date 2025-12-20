@@ -22,7 +22,7 @@ class FlutterDeveloper {
   
   String toString() => "Passionate about creating seamless mobile experiences!";
 }
-```
+
 ---
 ## 🚀 What I Do
 <table>
