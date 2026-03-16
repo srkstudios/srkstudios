@@ -97,16 +97,16 @@ Currently leveling up my skills in:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angryevilloser3086&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angryevilloser3086&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=srkstudios&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srkstudios&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angryevilloser3086&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srkstudios&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angryevilloser3086&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srkstudios&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%"/>
 </div>
 
 ---
@@ -114,7 +114,7 @@ Currently leveling up my skills in:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angryevilloser3086&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=srkstudios&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
 </div>
 
 ---
@@ -138,7 +138,7 @@ Currently leveling up my skills in:
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Profile Views](https://komarev.com/ghpvc/?username=angryevilloser3086&color=6C63FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=srkstudios&color=6C63FF&style=for-the-badge)
 
 **Thanks for stopping by! Feel free to explore my repos and don't forget to ⭐ if you find something useful!**
 
