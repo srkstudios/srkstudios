@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="232" viewBox="0 0 1040 232" role="img" aria-labelledby="title">
+  <title id="title">SRK Studios — Mobile engineering</title>
+  <defs>
+    <linearGradient id="ground" x2="1" y2=".4"><stop stop-color="#171525"/><stop offset="1" stop-color="#253243"/></linearGradient>
+    <linearGradient id="opal" x2=".9" y2="1"><stop stop-color="#c2b4ff"/><stop offset=".45" stop-color="#f0d5ef"/><stop offset="1" stop-color="#97e1d4"/></linearGradient>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#cccaea" opacity=".32"/></pattern>
+  </defs>
+  <rect width="1040" height="232" rx="18" fill="url(#ground)"/>
+  <rect x="580" width="460" height="232" fill="url(#grid)"/>
+  <text x="52" y="109" font-family="Georgia,serif" font-size="70" fill="#f5f2fa">SRK Studios</text>
+  <text x="56" y="160" font-family="Arial,sans-serif" font-size="25" fill="#cdccdf">Mobile engineering</text>
+  <g stroke-linejoin="round" stroke-width="1.6">
+    <path d="m686 143 119-53 135 54-119 56z" fill="#34465a" stroke="#a7babd"/>
+    <path d="m686 117 119-53 135 54-119 56z" fill="#706987" stroke="#c5bed9"/>
+    <path d="m686 89 119-53 135 54-119 56z" fill="url(#opal)" stroke="#f3f5fb"/>
+    <path d="m766 91 30-14m36-3 25 12m-42-11-8 31" fill="none" stroke="#483d65" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
